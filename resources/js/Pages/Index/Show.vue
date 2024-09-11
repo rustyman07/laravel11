@@ -1,17 +1,17 @@
 <template>
 
-<DIV>TEST</DIV>
+    <div>this is show</div>
+    
+
 </template>
+
+
 
 <script  setup>
 
-import { ref} from 'vue'
 // import {Link} from '@inertiajs/inertia-vue3'
 import {Link} from '@inertiajs/vue3'
 
-defineProps({
-    message: String
-})
 
 
 </script>
